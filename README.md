@@ -4,4 +4,4 @@ Building a Movie Recommender System using Generative AI Models
 command ``python -m venv .venv``
 
 ### Activate the virtual Environment
-command `` .venv/Scripts/activate ``
+command `` source .venv/Scripts/activate ``
